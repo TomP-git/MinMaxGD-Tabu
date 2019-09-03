@@ -5,7 +5,7 @@ by Tommaso Pastore, Anna Martínez-Gavara, Antonio Napoletano, Paola Festa, and 
 To compile invoke a make command in the "Release" folder.
 ## Usage
 To display the meaning of parameters and help, run the executable with the flag "-h". A complete description of the input and outfiles of the 
-algorithm is reported in the file README.txt.
+algorithm is reported in the file INSTRUCTIONS.txt.
 
 ## License
 The MIT License (MIT)
