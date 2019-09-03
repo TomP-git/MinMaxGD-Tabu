@@ -3,7 +3,7 @@
 To display the meaning of parameters and help, run the executable with the flag "-h"
 
  For TABU SEARCH algorithm: 
-  ./exec 
+  ./TabuGIT 
   argv[1]: instance.txt
   argv[2]: algorithm={tabu}
   argv[3]: tenure 
@@ -17,7 +17,7 @@ To display the meaning of parameters and help, run the executable with the flag 
  argv[11]: max-it without improvement before diversification
  argv[12]: max diversification moves
  argv[13]: random seed
- EXAMPLE RUN: ./exec instance.txt tabu 5 1 no 10000 instance out-f1.txt out-f2.txt 60 20 10 1
+ EXAMPLE RUN: ./TabuGIT instance.txt tabu 5 1 no 10000 instance out-f1.txt out-f2.txt 60 20 10 1
 
 
 OUTFILES:
